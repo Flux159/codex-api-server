@@ -1,6 +1,6 @@
 # codex-api-server
 
-API Server for Codex
+API Server for [Codex](https://github.com/openai/codex)
 
 # Getting Started
 
